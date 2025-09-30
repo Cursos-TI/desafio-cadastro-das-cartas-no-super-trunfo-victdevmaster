@@ -200,7 +200,7 @@ int main() {
     printf("Digite sua escolha (1-5): ");
     scanf("%d", &opcao);
 
-    // Comparar as cartas com base na escolha
+    // Comparar as cartas 
     compararCartas(carta1, carta2, opcao);
 
 
